@@ -20,7 +20,7 @@
 7.file changes any updates
 
 
-git
+git hub
 
 1. once check it where create a file 
 2.pull request
@@ -30,7 +30,7 @@ git
 6.changes updated files
 7.submit review
 
-react 1 hour videos
+React 1 hour videos
  
  
 
