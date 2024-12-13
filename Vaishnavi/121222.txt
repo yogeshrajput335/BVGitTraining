@@ -1,0 +1,33 @@
+12/12/22
+
+    1. Udemy - react course 1hr
+
+    2.plnkr.co - practice code(product list)
+
+    3.git video 1hr---------
+
+13/12/22
+
+ 1.visualcode 
+
+    -file creation
+    -source control
+    -commit
+    -push
+    -branch creation
+    -files changes
+    -+
+
+ 2.github
+  
+     -files created in vc
+     -pull request
+     -viewers
+     -merge
+     -mails link
+     -changes updated file
+     -submit review
+
+3.react 1hr video------------
+
+ 
