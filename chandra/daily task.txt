@@ -1,0 +1,37 @@
+12-12-2024
+
+1.udemy React watch in one hour
+
+2.plnkr.co practice
+
+3.git hub watching, learning some topics 
+
+
+
+13-12-2024
+
+1.vs code install
+2. file creation
+3.source control (+ symbol)
+4.put  commit(some content)
+5. push
+6.check it git hub
+6. branch creation 
+7.file changes any updates
+
+
+git
+
+1. once check it where create a file 
+2.pull request
+3.reviewers
+4.mails
+5.approved
+6.changes updated files
+7.submit review
+
+
+react 1 hour videos
+ 
+ 
+
