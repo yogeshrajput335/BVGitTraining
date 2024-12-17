@@ -30,7 +30,26 @@ git
 6.changes updated files
 7.submit review
 
+15-12-2024
 react 1 hour videos
  
+
+
+
+16-12-2024
+
+1.HTML CSS, java script
+2.type script ,
+3.files conversion ts to js
+4.1 hour video js
+5.ppt type scripting
+
+
+
+17-12-2024
+node js install
+
+
+
  
 
